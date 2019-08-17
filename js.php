@@ -24,7 +24,7 @@ onYouTubeIframeAPIReady = function () {
     player = new YT.Player('stock-video', {
         height: '854',
         width: '480',
-        videoId: 'ID DO VIDEO DO YOUTUBE',  // youtube video id
+        videoId: '_gHS6bdYt00',  // youtube video id
         playerVars: {
             'autoplay': 0,
             'rel': 0,
